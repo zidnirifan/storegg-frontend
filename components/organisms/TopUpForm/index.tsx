@@ -4,7 +4,7 @@ export default function TopUpForm() {
       <div className="pt-md-50 pt-30">
         <div className="">
           <label
-            htmlhtmlFor="ID"
+            htmlFor="ID"
             className="form-label text-lg fw-medium color-palette-1 mb-10"
           >
             Verify ID
